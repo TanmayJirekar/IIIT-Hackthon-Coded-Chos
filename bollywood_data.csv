@@ -1,0 +1,11 @@
+movie_title,genre,release_year,box_office_crores,lead_actor
+Movie A,Action,2023,150,Actor X
+Movie B,Romance,2022,80,Actor Y
+Movie C,Comedy,2023,120,Actor Z
+Movie D,Drama,2021,60,Actor X
+Movie E,Action,2022,200,Actor Y
+Movie F,Comedy,2020,100,Actor Z
+Movie G,Romance,2020,90,Actor X
+Movie H,Thriller,2022,70,Actor Z
+Movie I,Drama,2021,50,Actor Y
+Movie J,Action,2023,180,Actor X
